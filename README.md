@@ -1,4 +1,3 @@
-````markdown
 # Lenovo Battery Conservation Toggle Script
 
 Welcome to the **Lenovo Battery Conservation Toggle** script! This simple script enables you to toggle the battery conservation mode on Lenovo laptops running Linux. By enabling this mode, you can limit the battery charge to a set threshold (e.g., 60%), helping to extend the lifespan of your laptop's battery.
@@ -117,22 +116,3 @@ We welcome contributions to improve this script or add more features! To contrib
 3. Submit a pull request to merge your changes.
 
 If you find any bugs or have feature requests, feel free to open an issue in the repository!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-### Key Sections Breakdown:
-- **Introduction**: Brief explanation of what the script does.
-- **Features**: Highlights the main functionalities.
-- **Requirements**: Lists dependencies and system requirements.
-- **Installation Guide**: Step-by-step instructions for setting up the script.
-- **How to Use**: Detailed usage instructions for the script commands.
-- **Troubleshooting**: Common problems and solutions.
-- **Contributing**: How to contribute to the project.
-- **License**: Licensing information.
-
-Feel free to customize the repository URL and other details like your username or personal info.
-```
