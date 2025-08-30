@@ -1,0 +1,20 @@
+# Lenovo Battery Conservation Toggle Script
+
+This script allows you to toggle battery conservation mode on Lenovo laptops running Linux. This helps extend the lifespan of your battery by limiting the charge to a specified threshold.
+
+## Features
+- Enable or disable battery conservation mode.
+- Toggle the battery charge threshold between 60% (for conservation) and 75% (default).
+- Compatible with Lenovo laptops using the `ideapad_acpi` driver.
+
+## Requirements
+- Linux (tested on Fedora, should work on other distributions with `tlp` and `ideapad_acpi`).
+- `tlp` must be installed for managing battery charge thresholds.
+- The laptop should be using the `ideapad_acpi` driver (common on Lenovo laptops).
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/lenovo-battery-conservation-toggle.git
+   cd lenov
